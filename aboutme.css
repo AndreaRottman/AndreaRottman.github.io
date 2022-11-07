@@ -1,0 +1,182 @@
+header img{
+    position:absolute;
+    width: 101%;
+    height:101.4%;
+    padding:none;
+    margin:none;
+    top:0px;
+    left:0px;
+    bottom:0px;
+    right:0px;
+    
+}
+.e-portfolio{
+    position: absolute;
+    color: white;
+    background-color: rgb(86, 206, 206);
+    bottom:84%;
+    right: 0px;
+    left:0px;
+    display: flex;
+    width:1312px;
+    height:60px;
+    padding-top: 22px;
+    padding-left: 50px; 
+      
+}
+.Andrea{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    bottom:84%;
+    right: 0px;
+    left:190px;
+    display: flex;
+    height:60px;
+    padding-top: 22px;
+    font-size: 40px;
+}
+.middle{
+    position:absolute;
+    top:82px;
+    bottom:0;
+    left: 369px;;
+    right:0; 
+    color: rgb(105, 240, 245);
+    background-color:rgb(24, 22, 26) ; 
+    width: fit-content; 
+    height: fit-content;
+    border-radius: 10px;
+    font-size: 60px;
+    padding-left:10px;
+    padding-right:10px;
+}
+.middle-title{
+    position:absolute;
+    font-size:20px;
+    color: rgb(23, 91, 94);
+    padding-left:10px ;
+    padding-right:10px ;
+    background-color: rgb(255, 255, 255);
+    border-radius:10px ;
+    top:176px;
+    bottom:0px;
+    left:533px;
+    right:0px;
+    width: fit-content;
+    height: fit-content;
+}
+.Naver{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    top:60px;
+    bottom:0px;
+    left:218px;
+    right:0px;
+    color:blue;
+    width: fit-content;
+    height: fit-content;  
+    border-right:solid;
+    
+}
+.Naver li{
+    padding-right: 50px;
+    padding-left: 20px;
+    font-size: 2em;
+    list-style: none;
+    background-color: white;
+    border: solid;
+    border-right: none;
+    
+    
+}
+.Naver a:link, .Naver a:visited{
+    text-decoration: none;
+    color: blue;
+}
+#test{
+    position: absolute;
+    top:215px;
+    bottom:0px;
+    left:264px;
+    right:0px;
+    background-color: white;
+    width: 800px;
+    height: 374px;
+    font-size: 20px;
+    padding:10px;
+    padding-right:15px;
+    padding-left: 15px;
+    font-weight:bold;
+    border-radius: 10px;
+    border:solid;
+}
+.gamer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+form{
+    position: absolute;
+    top:216px;
+    bottom:0px;
+    left:267px;
+    right:0px;
+    background-color: white;
+    width: 800px;
+    height: 351px;
+    font-size: 10px;
+    padding:10px;
+    padding-right:15px;
+    padding-left: 15px;
+    font-weight:bold;
+    border-radius: 10px;
+}
+p img{
+    position: absolute;
+    top:0px;
+    bottom:0px;
+    right:0px;
+    left:1150px;
+    width:180px;
+}
+.Ans{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    border: solid;
+    border-width:5px;
+    border-color: rgb(38, 136, 59);
+    height:40px;
+    padding-left: 5px;
+    padding-right:5px;
+    border-radius: 10px;
+    font-size: 30px;
+    bottom:30px;
+    left:1150px;
+}
+.Ans a:link, .Ans a:visited{
+    position: relative;
+    bottom:30px;
+    text-decoration: none;
+    color: rgb(57, 43, 184);
+    height: 30px;
+ }
+#note{
+    font-size: 20px;
+    position: relative;
+    left:10px;
+}
+#name{
+    font-size: 20px;
+}
+#language{
+    position: relative;
+    left:10px;
+}
+.Ans a:hover{
+    color: rgb(2, 209, 199);
+}
+.page{
+    display: flex;
+    width:100%;
+}

@@ -1,0 +1,161 @@
+header img{
+    position:absolute;
+    width: 100%;
+    height:100%;
+    padding:none;
+    margin:none;
+    top:0px;
+    left:0px;
+    bottom:0px;
+    right:0px;
+    
+}
+.e-portfolio{
+    position: absolute;
+    color: white;
+    background-color: rgb(86, 206, 206);
+    bottom:84%;
+    right: 0px;
+    left:0px;
+    display: flex;
+    height:60px;
+    padding-top: 22px;
+    padding-left: 50px; 
+      
+}
+.Andrea{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    bottom:84%;
+    right: 0px;
+    left:190px;
+    display: flex;
+    height:60px;
+    padding-top: 22px;
+    font-size: 40px;
+}
+.middle{
+    position:absolute;
+    top:100px;
+    bottom:0;
+    left: 529px;;
+    right:0; 
+    color: rgb(105, 240, 245);
+    background-color:rgb(24, 22, 26) ; 
+    width: fit-content; 
+    height: fit-content;
+    border-radius: 10px;
+    font-size: 60px;
+    padding-left:10px;
+    padding-right:10px;
+}
+.middle-title{
+    position:absolute;
+    font-size:50px;
+    color: rgb(23, 91, 94);
+    padding-left:10px ;
+    padding-right:10px ;
+    background-color: rgb(255, 255, 255);
+    border-radius:10px ;
+    top:170px;
+    bottom:0px;
+    left:432px;
+    right:0px;
+    width: fit-content;
+    height: fit-content;
+}
+.Naver{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    top:60px;
+    bottom:0px;
+    left:218px;
+    right:0px;
+    color:blue;
+    width: fit-content;
+    height: fit-content;  
+    border-right:solid;
+    
+}
+.Naver li{
+    padding-right: 50px;
+    padding-left: 20px;
+    font-size: 2em;
+    list-style: none;
+    background-color: white;
+    border: solid;
+    border-right: none;
+    
+    
+}
+.Naver a:link, .Naver a:visited{
+    text-decoration: none;
+    color: blue;
+}
+.experience{
+    position: absolute;
+    top:252px;
+    bottom:0px;
+    left:267px;
+    right:0px;
+    background-color: white;
+    width: 800px;
+    height: fit-content;
+    font-size: 20px;
+    padding:10px;
+    padding-right:15px;
+    padding-left: 15px;
+    font-weight:bold;
+    border-radius: 10px;
+    border:solid;
+}
+.profile img{
+    position: absolute;
+    top:0px;
+    bottom:0px;
+    right:0px;
+    left:1150px;
+    width:180px;
+}
+.DS img{
+    position:absolute;
+    top:200px;
+    bottom:0px;
+    left:70px;
+    right:0px;
+    height:220px;
+}
+.randomize img{
+    position:absolute;
+    top:200px;
+    bottom:0px;
+    left:1120px;
+    right:0px;
+    width:150;
+}
+.umbreon img{
+    position:absolute;
+    top:360px;
+    bottom:0px;
+    left:70px;
+    right:0px;
+    width:150;
+}
+.umbreonS img{
+    position:absolute;
+    top:360px;
+    bottom:0px;
+    left:950px;
+    right:0px;
+    width:150;
+}
+.fav{
+    position:absolute;
+    font-size: 50px;
+    color:rgb(91, 190, 179);
+    top:400px;
+    bottom:0px;
+    left:680px;
+    right:0px;
+}
